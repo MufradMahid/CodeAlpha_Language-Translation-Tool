@@ -1,7 +1,7 @@
 # CodeAlpha_Language-Translation-Tool
 A versatile language translation tool that converts text between languages quickly and accurately. Features include automatic source language detection, real-time translation and support for multiple language pairs. Ideal for developers, content creators and global communication.
 
-# Language Translation Tool
+# Language Translation Tool (TASK 1)
 
 This project is a simple language translation tool developed as part of the CodeAlpha Artificial Intelligence Internship.
 
